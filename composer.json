@@ -1,16 +1,12 @@
 {
-    "name": "yiisoft/yii2-app-advanced",
-    "description": "Yii 2 Advanced Project Template",
-    "keywords": ["yii2", "framework", "advanced", "project template"],
-    "homepage": "http://www.yiiframework.com/",
+    "name": "execut/yii2-cms-advanced-template",
+    "description": "Yii2 CMS template based on advanced application template",
+    "keywords": ["yii2 cms", "cms", "advanced", "cms project template"],
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
-        "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "http://www.yiiframework.com/wiki/",
-        "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/yiisoft/yii2"
+        "issues": "https://github.com/execut/yii2-cms-advanced-template/issues?state=open",
+        "source": "https://github.com/execut/yii2-cms-advanced-template"
     },
     "minimum-stability": "dev",
     "require": {
