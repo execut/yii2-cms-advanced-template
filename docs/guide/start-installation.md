@@ -12,9 +12,9 @@ If you do not have [Composer](http://getcomposer.org/), follow the instructions 
 
 With Composer installed, you can then install the application using the following commands:
 
-    composer create-project --prefer-dist yiisoft/yii2-app-advanced yii-application
+    composer create-project --prefer-dist execut/yii2-cms-app-advanced yii-cms-application
 
-The command installs the advanced application in a directory named `yii-application`. You can choose a different
+The command installs the advanced application in a directory named `yii-cms-application`. You can choose a different
 directory name if you want.
 
 It uses [asset-packagist](https://asset-packagist.org/) for managing bower and npm package dependencies through Composer. Also you can use [asset-plugin](https://packagist.org/packages/fxp/composer-asset-plugin), as in earlier versions, but it works slowly.
