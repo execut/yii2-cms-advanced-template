@@ -1,7 +1,7 @@
 Yii2 CMS template project
 =============================================
 
-0.1.0 dev
+0.1.0
 ---
 - Adaptation advanced template app to yii2-cms
 
